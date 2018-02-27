@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorCore", "OperatorCore\OperatorCore.csproj", "{67570509-B601-4B31-B5ED-D5C7A52A13FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormUI", "WindowsFormUI\WindowsFormUI.csproj", "{0FE93CF9-9F3A-4055-8A14-A0B95B408A11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67570509-B601-4B31-B5ED-D5C7A52A13FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67570509-B601-4B31-B5ED-D5C7A52A13FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67570509-B601-4B31-B5ED-D5C7A52A13FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67570509-B601-4B31-B5ED-D5C7A52A13FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE93CF9-9F3A-4055-8A14-A0B95B408A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE93CF9-9F3A-4055-8A14-A0B95B408A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE93CF9-9F3A-4055-8A14-A0B95B408A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE93CF9-9F3A-4055-8A14-A0B95B408A11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99A6799E-8F70-4B94-AF4C-4512488C0130}
+	EndGlobalSection
+EndGlobal
